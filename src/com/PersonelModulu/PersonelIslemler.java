@@ -228,7 +228,7 @@ public class PersonelIslemler {
                 pi.setHastaIzinGun(30);
                 System.out.println("Personel başarıyla oluşturuldu. Ana menüye yönlendiriliyorsunuz...");
                 islemler.anaMenu();
-
+            //hh
             } else if (deger==3) {
 
                 personeliSil(scanner);
