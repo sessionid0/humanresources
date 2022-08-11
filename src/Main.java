@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args) throws ParseException {
        com.IzinModulu.anamenufonks anamenufonks=new anamenufonks();
         anamenufonks.AnaMenuFonk();
+//Süleyman NC commiti
 
     }
 }
